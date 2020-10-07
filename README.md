@@ -1,2 +1,2 @@
 # TryPages
-Check out Github Pages
+Trying out Github Pages.
